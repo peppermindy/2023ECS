@@ -48,6 +48,11 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	text-align: left;
 }
+h2 {
+
+text-align: center;
+
+}
 .footer {
 	background: #8A6C57;
 	margin: 0px;
