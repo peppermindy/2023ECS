@@ -3,10 +3,9 @@
 #center {
 	text-align: center;
 }
-div.container {
-  text-align: center;
+#left {
+	text-align: left;
 }
-
 ol.myOL {
   display: inline-block;
   text-align: left;
@@ -58,7 +57,7 @@ a:hover, a:active, a:focus {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	text-align: left;
+	text-align: center;
 }
 .footer {
 	background: #8A6C57;
