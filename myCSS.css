@@ -10,6 +10,11 @@ ol.myOL {
   display: inline-block;
   text-align: left;
 }
+}
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
 /* fun stuff from google ends */
 body {
 	margin: 0 auto;
